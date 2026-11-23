@@ -1,0 +1,337 @@
+[
+ {
+  "key": "NSW-685889",
+  "name": "BEECROFT WEAPONS RANGE BEECROFT PENINSULA",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 410,
+  "people_15min": 471,
+  "mesh_blocks_15min": 12,
+  "localities_15min": [
+   "Callala Bay - Currarong"
+  ],
+  "ed_nearest": {
+   "name": "Shoalhaven District Memorial Hospital",
+   "osm": "a513351774",
+   "minutes_from_middle": 36,
+   "km_straight": 30
+  },
+  "ed_minutes_people_5km": 29,
+  "people_5km_targets": 471,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Nowra Private Hospital",
+   "km": 28,
+   "ed_tag": "no"
+  },
+  "hospital_by_road": {
+   "name": "Shoalhaven District Memorial Hospital",
+   "minutes_from_middle": 36,
+   "ed_tag": "yes",
+   "osm": "a513351774"
+  },
+  "roads_crossing": [],
+  "from": [
+   -35.06933,
+   150.82265
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 7540,
+   "nodes": 54838,
+   "box": [
+    -35.3897,
+    150.351,
+    -34.7731,
+    151.1696
+   ]
+  }
+ },
+ {
+  "key": "NSW-687418",
+  "name": "COLLINS CREEK RD, COLLINS CREEK",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 1,
+  "people_15min": 1359,
+  "mesh_blocks_15min": 21,
+  "localities_15min": [
+   "Kyogle"
+  ],
+  "ed_nearest": {
+   "name": "Kyogle Multi-Purpose Service",
+   "osm": "a233347054",
+   "minutes_from_middle": 17,
+   "km_straight": 12
+  },
+  "ed_minutes_people_5km": 14,
+  "people_5km_targets": 465,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Kyogle Multi-Purpose Service",
+   "km": 12,
+   "ed_tag": "yes"
+  },
+  "hospital_by_road": {
+   "name": "Kyogle Multi-Purpose Service",
+   "minutes_from_middle": 17,
+   "ed_tag": "yes",
+   "osm": "a233347054"
+  },
+  "roads_crossing": [],
+  "from": [
+   -28.5215,
+   153.00226
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 2099,
+   "nodes": 41514,
+   "box": [
+    -28.7934,
+    152.695,
+    -28.2496,
+    153.3095
+   ]
+  }
+ },
+ {
+  "key": "NSW-687318",
+  "name": "COONABARABRAN RD, ULAMAMBRI",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 28,
+  "people_15min": 2746,
+  "mesh_blocks_15min": 44,
+  "localities_15min": [
+   "Coonabarabran"
+  ],
+  "ed_nearest": {
+   "name": "Coonabarabran Health Service",
+   "osm": "w201084041",
+   "minutes_from_middle": 12,
+   "km_straight": 13
+  },
+  "ed_minutes_people_5km": 15,
+  "people_5km_targets": 134,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Coonabarabran Health Service",
+   "km": 13,
+   "ed_tag": "yes"
+  },
+  "hospital_by_road": {
+   "name": "Coonabarabran Health Service",
+   "minutes_from_middle": 12,
+   "ed_tag": "yes",
+   "osm": "w201084041"
+  },
+  "roads_crossing": [
+   "Purlewaugh Road 0.9 km"
+  ],
+  "from": [
+   -31.32247,
+   149.40865
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 1126,
+   "nodes": 16093,
+   "box": [
+    -31.5974,
+    148.9821,
+    -30.8727,
+    149.7275
+   ]
+  }
+ },
+ {
+  "key": "NSW-685500",
+  "name": "H POTS FIRE, CESSNOCK",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 101,
+  "people_15min": 37615,
+  "mesh_blocks_15min": 392,
+  "localities_15min": [
+   "Cessnock Surrounds",
+   "Cessnock",
+   "Kurri Kurri - Abermain",
+   "Branxton - Greta - Pokolbin"
+  ],
+  "ed_nearest": {
+   "name": "Cessnock Hospital",
+   "osm": "w1020178697",
+   "minutes_from_middle": 9,
+   "km_straight": 5
+  },
+  "ed_minutes_people_5km": 4,
+  "people_5km_targets": 24170,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Cessnock Hospital",
+   "km": 5,
+   "ed_tag": "yes"
+  },
+  "hospital_by_road": {
+   "name": "Cessnock Hospital",
+   "minutes_from_middle": 9,
+   "ed_tag": "yes",
+   "osm": "w1020178697"
+  },
+  "roads_crossing": [],
+  "from": [
+   -32.86316,
+   151.37372
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 18659,
+   "nodes": 135617,
+   "box": [
+    -33.144,
+    151.0446,
+    -32.5823,
+    151.7028
+   ]
+  }
+ },
+ {
+  "key": "NSW-685822",
+  "name": "RED POINT RD, WOLLUMBOOLA",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 0,
+  "people_15min": 3588,
+  "mesh_blocks_15min": 69,
+  "localities_15min": [
+   "Callala Bay - Currarong"
+  ],
+  "ed_nearest": {
+   "name": "Shoalhaven District Memorial Hospital",
+   "osm": "a513351774",
+   "minutes_from_middle": 27,
+   "km_straight": 20
+  },
+  "ed_minutes_people_5km": 21,
+  "people_5km_targets": 1977,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Nowra Private Hospital",
+   "km": 18,
+   "ed_tag": "no"
+  },
+  "hospital_by_road": {
+   "name": "Shoalhaven District Memorial Hospital",
+   "minutes_from_middle": 27,
+   "ed_tag": "yes",
+   "osm": "a513351774"
+  },
+  "roads_crossing": [],
+  "from": [
+   -34.98401,
+   150.76783
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 14777,
+   "nodes": 109406,
+   "box": [
+    -35.2568,
+    150.4381,
+    -34.4866,
+    151.0976
+   ]
+  }
+ },
+ {
+  "key": "NSW-687358",
+  "name": "ULAN RD, TURILL",
+  "state": "NSW",
+  "level": "Advice",
+  "size_ha": 1,
+  "people_15min": 164,
+  "mesh_blocks_15min": 7,
+  "localities_15min": [
+   "Mudgee Surrounds - West",
+   "Scone Surrounds"
+  ],
+  "ed_nearest": {
+   "name": "Coolah Multi-Purpose Service",
+   "osm": "w203432526",
+   "minutes_from_middle": 35,
+   "km_straight": 34
+  },
+  "ed_minutes_people_5km": 41,
+  "people_5km_targets": 24,
+  "ed_unreached": 0,
+  "hospitals_any_nearest": {
+   "name": "Coolah Multi-Purpose Service",
+   "km": 34,
+   "ed_tag": "yes"
+  },
+  "hospital_by_road": {
+   "name": "Coolah Multi-Purpose Service",
+   "minutes_from_middle": 35,
+   "ed_tag": "yes",
+   "osm": "w203432526"
+  },
+  "roads_crossing": [],
+  "from": [
+   -32.09243,
+   149.87178
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 1560,
+   "nodes": 23478,
+   "box": [
+    -32.4388,
+    149.4374,
+    -31.7493,
+    150.1905
+   ]
+  }
+ },
+ {
+  "key": "QLD-WARN-14121",
+  "name": "AVOID SMOKE - Mapoon - fire as at 1:38pm Monday, 23 November 2026",
+  "state": "QLD",
+  "level": "Advice",
+  "size_ha": null,
+  "people_15min": 0,
+  "mesh_blocks_15min": 0,
+  "localities_15min": [],
+  "ed_nearest": null,
+  "ed_minutes_people_5km": 0,
+  "people_5km_targets": 4,
+  "ed_unreached": 1,
+  "hospitals_any_nearest": {
+   "name": "Bamaga Hospital",
+   "km": 45,
+   "ed_tag": "not tagged"
+  },
+  "hospital_by_road": null,
+  "roads_crossing": [
+   "Bamaga Road (Northern Bypass Road) 53.0 km",
+   "Peninsula Developmental Road 8.5 km",
+   "Bamaga Road (Old Telegraph Line) 6.0 km",
+   "Bamaga Road 0.1 km"
+  ],
+  "from": [
+   -11.29615,
+   142.31699
+  ],
+  "from_middle": true,
+  "network": {
+   "ways": 502,
+   "nodes": 7264,
+   "box": [
+    -11.775,
+    141.9241,
+    -10.5157,
+    142.7099
+   ]
+  }
+ }
+]

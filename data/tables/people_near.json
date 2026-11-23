@@ -1,0 +1,86 @@
+{
+ "hotspots_industrial_left_out": 255,
+ "hotspots_24h": {
+  "hotspots": 25469,
+  "people": 180381,
+  "mesh_blocks": 2764,
+  "zone_km2": 64108
+ },
+ "hotspots_6h": {
+  "hotspots": 3903,
+  "people": 5409,
+  "mesh_blocks": 194,
+  "zone_km2": 16878
+ },
+ "warning_areas": {
+  "outlines": 7,
+  "people_5km": 26323,
+  "people_inside": 8,
+  "area_km2": 956.6
+ },
+ "warning_each": [
+  {
+   "key": "NSW-685889",
+   "name": "BEECROFT WEAPONS RANGE BEECROFT PENINSULA",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 471,
+   "area_km2": 4.14
+  },
+  {
+   "key": "NSW-687418",
+   "name": "COLLINS CREEK RD, COLLINS CREEK",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 509,
+   "area_km2": 0.01
+  },
+  {
+   "key": "NSW-687318",
+   "name": "COONABARABRAN RD, ULAMAMBRI",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 145,
+   "area_km2": 0.28
+  },
+  {
+   "key": "NSW-685500",
+   "name": "H POTS FIRE, CESSNOCK",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 23175,
+   "area_km2": 1.01
+  },
+  {
+   "key": "NSW-685822",
+   "name": "RED POINT RD, WOLLUMBOOLA",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 1987,
+   "area_km2": 0.03
+  },
+  {
+   "key": "NSW-687358",
+   "name": "ULAN RD, TURILL",
+   "state": "NSW",
+   "level": "Advice",
+   "people_5km": 26,
+   "area_km2": 0.01
+  },
+  {
+   "key": "QLD-WARN-14121",
+   "name": "AVOID SMOKE - Mapoon - fire as at 1:38pm Monday, 23 November 2026",
+   "state": "QLD",
+   "level": "Advice",
+   "people_5km": 10,
+   "area_km2": 951.13
+  }
+ ],
+ "hotspot_groups": {
+  "all": 461,
+  "with_people": 133,
+  "over_100_people": 46,
+  "over_1000_people": 14
+ },
+ "drive_targets": 8727
+}

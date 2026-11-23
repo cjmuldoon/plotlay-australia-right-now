@@ -1,0 +1,256 @@
+id,site,kind,state,lat,lng,hours_since
+127397090,sawmill,sawmill,QLD,-27.2336,152.4201,18.18
+127397642,Ampol Oil Refinery,oil,QLD,-27.4209,153.1579,18.18
+127397652,sawmill,sawmill,QLD,-27.2349,152.4224,18.18
+127397655,sawmill,sawmill,QLD,-27.2316,152.4218,18.18
+127400206,sawmill,sawmill,QLD,-27.2319,152.4181,18.26
+127400663,Walla Walla Solar Farm,solar farm,NSW,-35.747,146.9571,17.5
+127400664,Walla Walla Solar Farm,solar farm,NSW,-35.7491,146.9462,17.5
+127400665,Junee Solar Farm,solar farm,NSW,-34.8155,147.5632,17.5
+127400666,Sebastopol Solar Farm,solar farm,NSW,-34.6117,147.5626,17.5
+127400667,Griffith Solar Farm,solar farm,NSW,-34.321,146.1275,17.5
+127401425,Walla Walla Solar Farm,solar farm,NSW,-35.7494,146.9549,17.5
+127401426,Walla Walla Solar Farm,solar farm,NSW,-35.743,146.9472,17.5
+127401429,Wagga Wagga Solar Farm,solar farm,NSW,-35.0708,147.4415,17.5
+127401430,Wagga Wagga Solar Farm,solar farm,NSW,-35.072,147.4356,17.5
+127401431,Bomen Solar Farm,solar farm,NSW,-35.0581,147.4438,17.5
+127401432,Bomen Solar Farm,solar farm,NSW,-35.0555,147.4368,17.5
+127401433,Bomen Solar Farm,solar farm,NSW,-35.0493,147.4474,17.5
+127401434,Bomen Solar Farm,solar farm,NSW,-35.0505,147.4415,17.5
+127401435,Bomen Solar Farm,solar farm,NSW,-35.0517,147.4356,17.5
+127401436,Bomen Solar Farm,solar farm,NSW,-35.0455,147.4462,17.5
+127401437,Bomen Solar Farm,solar farm,NSW,-35.0416,147.445,17.5
+127401438,Bomen Solar Farm,solar farm,NSW,-35.0366,147.4496,17.5
+127401439,Bomen Solar Farm,solar farm,NSW,-35.0378,147.4438,17.5
+127401440,Bomen Solar Farm,solar farm,NSW,-35.039,147.438,17.5
+127401441,Bomen Solar Farm,solar farm,NSW,-35.0402,147.4322,17.5
+127401442,Bomen Solar Farm,solar farm,NSW,-35.0352,147.4368,17.5
+127401443,Bomen Solar Farm,solar farm,NSW,-35.0404,147.4489,17.5
+127401444,Bomen Solar Farm,solar farm,NSW,-35.0389,147.436,17.5
+127401445,Bomen Solar Farm,solar farm,NSW,-35.0351,147.4349,17.5
+127401446,Junee Solar Farm,solar farm,NSW,-34.8144,147.5785,17.5
+127401447,Junee Solar Farm,solar farm,NSW,-34.8168,147.5667,17.5
+127401448,Junee Solar Farm,solar farm,NSW,-34.8156,147.5726,17.5
+127401449,Junee Solar Farm,solar farm,NSW,-34.8118,147.5715,17.5
+127401450,Cootamundra Solar Farm,solar farm,NSW,-34.6496,148.0277,17.5
+127401451,Sebastopol Solar Farm,solar farm,NSW,-34.6181,147.5613,17.5
+127401452,Sebastopol Solar Farm,solar farm,NSW,-34.6193,147.5553,17.5
+127401453,Sebastopol Solar Farm,solar farm,NSW,-34.6142,147.5602,17.5
+127401454,Sebastopol Solar Farm,solar farm,NSW,-34.6154,147.5542,17.5
+127401455,Sebastopol Solar Farm,solar farm,NSW,-34.6103,147.5591,17.5
+127401456,Sebastopol Solar Farm,solar farm,NSW,-34.6115,147.553,17.5
+127401457,Sebastopol Solar Farm,solar farm,NSW,-34.6052,147.564,17.5
+127401458,Sebastopol Solar Farm,solar farm,NSW,-34.6064,147.5579,17.5
+127401459,Sebastopol Solar Farm,solar farm,NSW,-34.6077,147.5519,17.5
+127401460,Sebastopol Solar Farm,solar farm,NSW,-34.6013,147.5628,17.5
+127401461,Sebastopol Solar Farm,solar farm,NSW,-34.6025,147.5568,17.5
+127401462,Darlington Point Solar Farm,solar farm,NSW,-34.6535,146.0827,17.5
+127401463,Griffith Solar Farm,solar farm,NSW,-34.3187,146.1295,17.5
+127401464,Griffith Solar Farm,solar farm,NSW,-34.3197,146.1244,17.5
+127401465,Griffith Solar Farm,solar farm,NSW,-34.3207,146.1192,17.5
+127401466,Griffith Solar Farm,solar farm,NSW,-34.317,146.1181,17.5
+127401467,Griffith Solar Farm,solar farm,NSW,-34.3134,146.1171,17.5
+127401468,Griffith Solar Farm,solar farm,NSW,-34.3156,146.1152,17.5
+127401469,Wyalong Solar Farm,solar farm,NSW,-33.8921,147.3185,17.5
+127401470,Wyalong Solar Farm,solar farm,NSW,-33.8933,147.3125,17.5
+127401471,Wyalong Solar Farm,solar farm,NSW,-33.887,147.3233,17.5
+127401472,Wyalong Solar Farm,solar farm,NSW,-33.8894,147.3114,17.5
+127401473,Wyalong Solar Farm,solar farm,NSW,-33.8882,147.3174,17.5
+127401474,Wyalong Solar Farm,solar farm,NSW,-33.8843,147.3162,17.5
+127401475,Wyalong Solar Farm,solar farm,NSW,-33.8855,147.3103,17.5
+127401476,Wyalong Solar Farm,solar farm,NSW,-33.8816,147.3091,17.5
+127401610,sawmill,sawmill,QLD,-27.2343,152.4223,17.47
+127405379,Wyalong Solar Farm,solar farm,NSW,-33.8806,147.3031,17.61
+127405380,Wyalong Solar Farm,solar farm,NSW,-33.8806,147.3069,17.61
+127405381,Wyalong Solar Farm,solar farm,NSW,-33.8806,147.3106,17.61
+127405382,Wyalong Solar Farm,solar farm,NSW,-33.8881,147.3219,17.61
+127405383,Wyalong Solar Farm,solar farm,NSW,-33.8919,147.3069,17.61
+127405384,Wyalong Solar Farm,solar farm,NSW,-33.8919,147.3106,17.61
+127405385,Wyalong Solar Farm,solar farm,NSW,-33.8919,147.3144,17.61
+127405386,Wyalong Solar Farm,solar farm,NSW,-33.8919,147.3181,17.61
+127405389,Sebastopol Solar Farm,solar farm,NSW,-34.6006,147.5506,17.61
+127405390,Sebastopol Solar Farm,solar farm,NSW,-34.6006,147.5581,17.61
+127405391,Sebastopol Solar Farm,solar farm,NSW,-34.6006,147.5619,17.61
+127405392,Sebastopol Solar Farm,solar farm,NSW,-34.6044,147.5506,17.61
+127405393,Sebastopol Solar Farm,solar farm,NSW,-34.6044,147.5544,17.61
+127405394,Sebastopol Solar Farm,solar farm,NSW,-34.6044,147.5581,17.61
+127405395,Sebastopol Solar Farm,solar farm,NSW,-34.6044,147.5619,17.61
+127405397,Sebastopol Solar Farm,solar farm,NSW,-34.6081,147.5506,17.61
+127405398,Sebastopol Solar Farm,solar farm,NSW,-34.6081,147.5544,17.61
+127405399,Sebastopol Solar Farm,solar farm,NSW,-34.6081,147.5581,17.61
+127405400,Sebastopol Solar Farm,solar farm,NSW,-34.6119,147.5506,17.61
+127405401,Sebastopol Solar Farm,solar farm,NSW,-34.6119,147.5544,17.61
+127405402,Sebastopol Solar Farm,solar farm,NSW,-34.6119,147.5581,17.61
+127405403,Sebastopol Solar Farm,solar farm,NSW,-34.6156,147.5506,17.61
+127405404,Sebastopol Solar Farm,solar farm,NSW,-34.6156,147.5544,17.61
+127405405,Sebastopol Solar Farm,solar farm,NSW,-34.6156,147.5581,17.61
+127405406,industrial land,industrial,NSW,-34.6456,148.0231,17.61
+127405407,industrial land,industrial,NSW,-34.6494,148.0231,17.61
+127405408,Junee Solar Farm,solar farm,NSW,-34.8106,147.5656,17.61
+127405409,Junee Solar Farm,solar farm,NSW,-34.8106,147.5694,17.61
+127405410,Junee Solar Farm,solar farm,NSW,-34.8144,147.5619,17.61
+127405411,Junee Solar Farm,solar farm,NSW,-34.8144,147.5656,17.61
+127405412,Riverina Intermodal Freight and Logistics Hub,transport,NSW,-35.0506,147.4306,17.61
+127405413,Riverina Intermodal Freight and Logistics Hub,transport,NSW,-35.0544,147.4306,17.61
+127405414,Bomen Solar Farm,solar farm,NSW,-35.0581,147.4419,17.61
+127405415,Wagga Wagga Solar Farm,solar farm,NSW,-35.0694,147.4419,17.61
+127411701,Chevron Wheatstone Project,industrial,WA,-21.6967,114.9928,16.48
+127411711,Chevron Wheatstone Project,industrial,WA,-21.7019,114.9949,16.48
+127411717,Pluto LNG Park,industrial,WA,-20.6152,116.7678,16.45
+127411718,Pluto LNG Park,industrial,WA,-20.6155,116.7646,16.45
+127411719,North West Shelf Project,industrial,WA,-20.5986,116.7785,16.45
+127405661,Walla Walla Solar Farm,solar farm,NSW,-35.747,146.9571,17.5
+127405662,Walla Walla Solar Farm,solar farm,NSW,-35.7491,146.9462,17.5
+127405663,Junee Solar Farm,solar farm,NSW,-34.8155,147.5632,17.5
+127405664,Sebastopol Solar Farm,solar farm,NSW,-34.6117,147.5626,17.5
+127405665,Griffith Solar Farm,solar farm,NSW,-34.321,146.1275,17.5
+127406709,Walla Walla Solar Farm,solar farm,NSW,-35.7494,146.9549,17.5
+127406710,Walla Walla Solar Farm,solar farm,NSW,-35.743,146.9472,17.5
+127406713,Wagga Wagga Solar Farm,solar farm,NSW,-35.0708,147.4415,17.5
+127406714,Wagga Wagga Solar Farm,solar farm,NSW,-35.072,147.4356,17.5
+127406715,Bomen Solar Farm,solar farm,NSW,-35.0581,147.4438,17.5
+127406716,Bomen Solar Farm,solar farm,NSW,-35.0555,147.4368,17.5
+127406717,Bomen Solar Farm,solar farm,NSW,-35.0493,147.4474,17.5
+127406718,Bomen Solar Farm,solar farm,NSW,-35.0505,147.4415,17.5
+127406719,Bomen Solar Farm,solar farm,NSW,-35.0517,147.4356,17.5
+127406720,Bomen Solar Farm,solar farm,NSW,-35.0455,147.4462,17.5
+127406721,Bomen Solar Farm,solar farm,NSW,-35.0416,147.445,17.5
+127406722,Bomen Solar Farm,solar farm,NSW,-35.0366,147.4496,17.5
+127406723,Bomen Solar Farm,solar farm,NSW,-35.0378,147.4438,17.5
+127406724,Bomen Solar Farm,solar farm,NSW,-35.039,147.438,17.5
+127406725,Bomen Solar Farm,solar farm,NSW,-35.0402,147.4322,17.5
+127406726,Bomen Solar Farm,solar farm,NSW,-35.0352,147.4368,17.5
+127406727,Bomen Solar Farm,solar farm,NSW,-35.0404,147.4489,17.5
+127406728,Bomen Solar Farm,solar farm,NSW,-35.0389,147.436,17.5
+127406729,Bomen Solar Farm,solar farm,NSW,-35.0351,147.4349,17.5
+127406730,Junee Solar Farm,solar farm,NSW,-34.8144,147.5785,17.5
+127406731,Junee Solar Farm,solar farm,NSW,-34.8168,147.5667,17.5
+127406732,Junee Solar Farm,solar farm,NSW,-34.8118,147.5715,17.5
+127406733,Cootamundra Solar Farm,solar farm,NSW,-34.6496,148.0277,17.5
+127406734,Sebastopol Solar Farm,solar farm,NSW,-34.6181,147.5613,17.5
+127406735,Sebastopol Solar Farm,solar farm,NSW,-34.6193,147.5553,17.5
+127406736,Sebastopol Solar Farm,solar farm,NSW,-34.6142,147.5602,17.5
+127406737,Sebastopol Solar Farm,solar farm,NSW,-34.6154,147.5542,17.5
+127406738,Sebastopol Solar Farm,solar farm,NSW,-34.6103,147.5591,17.5
+127406739,Sebastopol Solar Farm,solar farm,NSW,-34.6052,147.564,17.5
+127406740,Sebastopol Solar Farm,solar farm,NSW,-34.6064,147.5579,17.5
+127406741,Sebastopol Solar Farm,solar farm,NSW,-34.6077,147.5519,17.5
+127406742,Sebastopol Solar Farm,solar farm,NSW,-34.6013,147.5628,17.5
+127406743,Sebastopol Solar Farm,solar farm,NSW,-34.6025,147.5568,17.5
+127406744,Darlington Point Solar Farm,solar farm,NSW,-34.6535,146.0827,17.5
+127406745,Griffith Solar Farm,solar farm,NSW,-34.3187,146.1295,17.5
+127406746,Griffith Solar Farm,solar farm,NSW,-34.3197,146.1244,17.5
+127406747,Griffith Solar Farm,solar farm,NSW,-34.3207,146.1192,17.5
+127406748,Griffith Solar Farm,solar farm,NSW,-34.3134,146.1171,17.5
+127406749,Griffith Solar Farm,solar farm,NSW,-34.3156,146.1152,17.5
+127406750,Wyalong Solar Farm,solar farm,NSW,-33.8921,147.3185,17.5
+127406751,Wyalong Solar Farm,solar farm,NSW,-33.8933,147.3125,17.5
+127406752,Wyalong Solar Farm,solar farm,NSW,-33.887,147.3233,17.5
+127406753,Wyalong Solar Farm,solar farm,NSW,-33.8894,147.3114,17.5
+127406754,Wyalong Solar Farm,solar farm,NSW,-33.8843,147.3162,17.5
+127406755,Wyalong Solar Farm,solar farm,NSW,-33.8816,147.3091,17.5
+127406874,sawmill,sawmill,QLD,-27.2343,152.4223,17.47
+127410891,Pluto LNG Park,industrial,WA,-20.6131,116.7626,16.45
+127424995,industrial land,industrial,NSW,-34.4543,150.8731,7.92
+127424996,industrial land,industrial,NSW,-34.4543,150.8769,7.92
+127424997,industrial land,industrial,NSW,-34.4543,150.8806,7.92
+127424998,industrial land,industrial,NSW,-34.4581,150.8769,7.92
+127424999,industrial land,industrial,NSW,-34.4581,150.8806,7.92
+127425000,industrial land,industrial,NSW,-34.4581,150.8843,7.92
+127413864,industrial land,industrial,WA,-20.6131,116.7594,16.67
+127413865,Pluto LNG Park,industrial,WA,-20.6131,116.7631,16.67
+127413882,Chevron Wheatstone Project,industrial,WA,-21.6969,114.9894,16.67
+127413883,Chevron Wheatstone Project,industrial,WA,-21.7006,114.9894,16.67
+127414272,Pluto LNG Park,industrial,WA,-20.6131,116.7626,16.45
+127415091,Chevron Wheatstone Project,industrial,WA,-21.6967,114.9928,16.48
+127415100,Chevron Wheatstone Project,industrial,WA,-21.7019,114.9949,16.48
+127415106,Pluto LNG Park,industrial,WA,-20.6152,116.7678,16.45
+127415107,Pluto LNG Park,industrial,WA,-20.6155,116.7646,16.45
+127415108,North West Shelf Project,industrial,WA,-20.5986,116.7785,16.45
+127417567,industrial land,industrial,WA,-33.3626,115.6758,15.79
+127418645,Rubbish Tip,industrial,WA,-18.3406,125.6881,15.93
+127418646,Rubbish Tip,industrial,WA,-18.3406,125.6919,15.93
+127418907,Esperance Power Project,industrial,WA,-33.7569,121.8294,15.93
+127420887,Pluto LNG Park,industrial,WA,-20.619,116.768,13.57
+127425950,Esso Gas Plant Longford,gas,VIC,-38.2253,147.1631,6.87
+127425951,Esso Gas Plant Longford,gas,VIC,-38.2275,147.174,6.87
+127425952,Melbourne Regional Landfill,industrial,VIC,-37.785,144.7261,6.87
+127425945,Badgerys Creek Waste Management Service,industrial,NSW,-33.8621,150.7555,6.9
+127425946,Lucas Heights Waste and Refuse Centre,industrial,NSW,-34.0482,150.9744,6.9
+127426138,industrial land,industrial,TAS,-40.8508,145.3809,6.87
+127424762,Sydney Steel Mill,industrial,NSW,-33.7639,150.8518,7.85
+127424763,industrial land,industrial,NSW,-34.4557,150.8751,7.85
+127424764,industrial land,industrial,NSW,-34.4573,150.8809,7.85
+127424765,industrial land,industrial,NSW,-34.459,150.8866,7.85
+127424766,industrial land,industrial,NSW,-34.4634,150.8784,7.85
+127425752,Fisherman's Landing Cement Plant,cement,QLD,-23.7896,151.1538,6.95
+127425753,Fisherman's Landing Cement Plant,cement,QLD,-23.7912,151.1515,6.95
+127425755,Queensland Alumina Refinery,refinery,QLD,-23.8646,151.2887,6.95
+127426300,Melbourne Regional Landfill,industrial,VIC,-37.7843,144.7231,7.02
+127426301,Esso Gas Plant Longford,gas,VIC,-38.2231,147.1606,7.02
+127426298,Lucas Heights Waste and Refuse Centre,industrial,NSW,-34.0456,150.9706,7.02
+127426459,industrial land,industrial,TAS,-40.8518,145.3794,7.02
+127427059,Esso Gas Plant Longford,gas,VIC,-38.2253,147.1631,6.87
+127427060,Esso Gas Plant Longford,gas,VIC,-38.2275,147.174,6.87
+127427061,Melbourne Regional Landfill,industrial,VIC,-37.785,144.7261,6.87
+127427054,Badgerys Creek Waste Management Service,industrial,NSW,-33.8621,150.7555,6.9
+127427055,Lucas Heights Waste and Refuse Centre,industrial,NSW,-34.0482,150.9744,6.9
+127427238,industrial land,industrial,TAS,-40.8508,145.3809,6.87
+127426861,Fisherman's Landing Cement Plant,cement,QLD,-23.7896,151.1538,6.95
+127426862,Fisherman's Landing Cement Plant,cement,QLD,-23.7912,151.1515,6.95
+127426864,Queensland Alumina Refinery,refinery,QLD,-23.8646,151.2887,6.95
+127428969,Lucas Heights Waste and Refuse Centre,industrial,NSW,-34.0476,150.9732,6.19
+127428641,industrial land,industrial,QLD,-22.0435,146.3641,6.23
+127428703,Yarwun Alumina Refinery,refinery,QLD,-23.8269,151.1495,6.23
+127428704,Queensland Alumina Refinery,refinery,QLD,-23.8659,151.2909,6.23
+127428705,BMA Blackwater,mine,QLD,-23.7661,148.8609,6.23
+127431129,Melbourne Regional Landfill,industrial,VIC,-37.7855,144.726,6.16
+127431126,Lucas Heights Waste and Refuse Centre,industrial,NSW,-34.0476,150.9732,6.19
+127431286,industrial land,industrial,TAS,-40.8506,145.384,6.14
+127430800,industrial land,industrial,QLD,-22.0435,146.3641,6.23
+127430862,Yarwun Alumina Refinery,refinery,QLD,-23.8269,151.1495,6.23
+127430863,Queensland Alumina Refinery,refinery,QLD,-23.8659,151.2909,6.23
+127430864,BMA Blackwater,mine,QLD,-23.7661,148.8609,6.23
+127431331,Melbourne Regional Landfill,industrial,VIC,-37.7843,144.7231,6.35
+127432826,Pluto LNG Park,industrial,WA,-20.6062,116.7618,5.26
+127432827,Pluto LNG Park,industrial,WA,-20.608,116.7691,5.26
+127432828,industrial land,industrial,WA,-20.6131,116.7601,5.26
+127432829,Pluto LNG Park,industrial,WA,-20.6148,116.7672,5.26
+127433299,Pluto LNG Park,industrial,WA,-20.6056,116.7594,5.43
+127433300,landfill,industrial,WA,-20.6056,116.7669,5.43
+127433302,Pluto LNG Park,industrial,WA,-20.6093,116.7594,5.43
+127433303,Pluto LNG Park,industrial,WA,-20.6093,116.7631,5.43
+127433305,industrial land,industrial,WA,-20.6131,116.7594,5.43
+127433306,Pluto LNG Park,industrial,WA,-20.6131,116.7631,5.43
+127434627,Pluto LNG Park,industrial,WA,-20.6062,116.7618,5.26
+127434628,Pluto LNG Park,industrial,WA,-20.608,116.7691,5.26
+127434629,industrial land,industrial,WA,-20.6131,116.7601,5.26
+127434630,Pluto LNG Park,industrial,WA,-20.6148,116.7672,5.26
+127434846,Pluto LNG Park,industrial,WA,-20.6127,116.7667,4.55
+127435370,North West Shelf Project,industrial,WA,-20.595,116.7759,4.55
+127435371,Pluto LNG Park,industrial,WA,-20.6147,116.7683,4.55
+127435372,Pluto Burrup Power Plant,plant,WA,-20.614,116.7645,4.55
+127435373,Yurralyi Maya Power Station,plant,WA,-20.7621,116.7416,4.55
+127435393,Neerabup Power Station,plant,WA,-31.6732,115.803,4.5
+127435622,industrial land,industrial,WA,-20.6131,116.7594,4.69
+127435623,Pluto LNG Park,industrial,WA,-20.6131,116.7631,4.69
+127435657,Neerabup Power Station,plant,WA,-31.6718,115.7993,4.69
+127435868,Pluto LNG Park,industrial,WA,-20.6127,116.7667,4.55
+127436392,North West Shelf Project,industrial,WA,-20.595,116.7759,4.55
+127436393,Pluto LNG Park,industrial,WA,-20.6147,116.7683,4.55
+127436394,Pluto Burrup Power Plant,plant,WA,-20.614,116.7645,4.55
+127436395,Yurralyi Maya Power Station,plant,WA,-20.7621,116.7416,4.55
+127436415,Neerabup Power Station,plant,WA,-31.6732,115.803,4.5
+127436729,North West Shelf Project,industrial,WA,-20.5947,116.7773,3.6
+127436730,Pluto LNG Park,industrial,WA,-20.6117,116.7705,3.6
+127436731,Pluto LNG Park,industrial,WA,-20.6113,116.7664,3.6
+127436732,Pluto LNG Park,industrial,WA,-20.6171,116.7658,3.6
+127436733,Pluto LNG Park,industrial,WA,-20.6175,116.7701,3.6
+127436734,Pluto LNG Park,industrial,WA,-20.6175,116.7716,3.6
+127436735,Pluto LNG Park,industrial,WA,-20.6171,116.7673,3.6
+127436738,Chevron Wheatstone Project,industrial,WA,-21.6864,115.0006,3.58
+127436739,Chevron Wheatstone Project,industrial,WA,-21.6965,114.996,3.58
+127436788,landfill,industrial,WA,-20.6056,116.7669,3.7
+127436789,Pluto LNG Park,industrial,WA,-20.6093,116.7631,3.7
+127436790,Pluto LNG Park,industrial,WA,-20.6131,116.7669,3.7
+127436791,Pluto LNG Park,industrial,WA,-20.6168,116.7669,3.7

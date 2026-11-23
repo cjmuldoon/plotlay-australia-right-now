@@ -1,0 +1,22 @@
+district,today,tomorrow,ban_today,ban_tomorrow,councils,lgas,people
+Far North Coast,None,Moderate,No,No,Ballina; Byron; Clarence Valley; Kyogle; Lismore; Richmond Valley; Tweed,7,311295
+North Coast,Moderate,Moderate,No,No,Bellingen; Coffs Harbour; Port Macquarie-Hastings; Kempsey; Nambucca; Mid-Coast,6,326672
+Greater Hunter,Moderate,High,No,No,Cessnock; Dungog; Lake Macquarie; Maitland; Muswellbrook; Newcastle; Port Stephens; Singleton; Upper Hunter,9,676255
+Greater Sydney Region,Moderate,Moderate,No,No,The Hills; Blacktown; Blue Mountains; Burwood; Camden; Campbelltown; Canada Bay; Fairfield; Hawkesbury; Hornsby; Hunters Hill; Kogarah; Ku-ring-gai; Lane Cove; Liverpool; Mosman; North Sydney; Parramatta; Penrith; Randwick; Ryde; Strathfield; Sutherland; Sydney; Waverley; Willoughby; Woollahra; Bayside; Canterbury-Bankstown; Central Coast; Cumberland; Georges River; Inner West; Northern Beaches,34,5183436
+Illawarra/Shoalhaven,Moderate,Moderate,No,No,Kiama; Shellharbour; Shoalhaven; Wingecarribee; Wollondilly; Wollongong,6,528910
+Far South Coast,Moderate,Moderate,No,No,Bega Valley; Eurobodalla,2,76289
+Monaro Alpine,Moderate,Moderate,No,No,Snowy Monaro,1,21594
+ACT,Moderate,Moderate,No,No,,0,0
+Southern Ranges,Moderate,Moderate,No,No,Goulburn Mulwaree; Upper Lachlan; Yass Valley; Queanbeyan-Palerang,4,120925
+Central Ranges,High,High,No,No,Bathurst; Blayney; Cabonne; Cowra; Lithgow; Mid-Western; Oberon; Orange,8,173232
+New England,Moderate,Moderate,No,No,Glen Innes Severn; Tenterfield; Uralla; Walcha; Armidale,5,53855
+Northern Slopes,Moderate,Moderate,No,No,Gunnedah; Gwydir; Inverell; Liverpool Plains; Tamworth,5,106166
+North Western,Moderate,Moderate,No,No,Moree Plains; Narrabri; Walgett; Warrumbungle,4,39960
+Upper Central West Plains,High,High,No,No,Bogan; Coonamble; Gilgandra; Warren,4,13029
+Lower Central West Plains,High,High,No,No,Bland; Forbes; Lachlan; Narromine; Parkes; Temora; Weddin; Dubbo,8,106275
+Southern Slopes,Moderate,Moderate,No,No,Cootamundra-Gundagai; Hilltops; Snowy Valleys,3,45477
+Eastern Riverina,Moderate,Moderate,No,No,Albury; Coolamon; Greater Hume; Junee; Lockhart; Wagga Wagga,6,148860
+Southern Riverina,High,Moderate,No,No,Berrigan; Edward River; Federation; Murray River; Southern parts of Murrumbidgee,4,42781
+Northern Riverina,Moderate,Moderate,No,No,Carrathool; Griffith; Hay; Leeton; Narrandera; Northern parts of Murrumbidgee,5,50008
+South Western,Moderate,None,No,No,Balranald; Wentworth,2,9642
+Far Western,Moderate,None,No,No,Bourke; Brewarrina; Broken Hill; Central Darling; Cobar,5,27100

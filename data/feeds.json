@@ -1,0 +1,101 @@
+{
+ "snapshot_utc": "2026-11-23T21:50:19.000Z",
+ "feeds": {
+  "dea": {
+   "name": "DEA Hotspots",
+   "rows": 25724,
+   "rows_file": 31464,
+   "outside_states": 5740,
+   "read_utc": "2026-11-23T21:50:37.000Z",
+   "credit": "© Commonwealth of Australia (Geoscience Australia), DEA Hotspots, CC BY 4.0",
+   "filter": "hours_since_hotspot < 24, sensor not AHI (Himawari)"
+  },
+  "firms_n20": {
+   "name": "NASA FIRMS VIIRS NOAA-20 (24 hours)",
+   "rows_au": 7914,
+   "rows_file": 8001,
+   "read_utc": "2026-11-23T21:50:19.000Z",
+   "credit": "NASA FIRMS (Fire Information for Resource Management System), part of NASA’s Earth Science Data and Information System (ESDIS). NASA data, free to use."
+  },
+  "firms_n21": {
+   "name": "NASA FIRMS VIIRS NOAA-21 (24 hours)",
+   "rows_au": 8042,
+   "rows_file": 8112,
+   "read_utc": "2026-11-23T21:50:21.000Z",
+   "credit": "NASA FIRMS (Fire Information for Resource Management System), part of NASA’s Earth Science Data and Information System (ESDIS). NASA data, free to use."
+  },
+  "firms_modis": {
+   "name": "NASA FIRMS MODIS (24 hours)",
+   "rows_au": 1510,
+   "rows_file": 1518,
+   "read_utc": "2026-11-23T21:50:23.000Z",
+   "credit": "NASA FIRMS (Fire Information for Resource Management System), part of NASA’s Earth Science Data and Information System (ESDIS). NASA data, free to use."
+  },
+  "rfs": {
+   "name": "NSW RFS major incidents",
+   "rows": 19,
+   "read_utc": "2026-11-23T21:50:25.000Z",
+   "credit": "© State of New South Wales (NSW Rural Fire Service). For current information go to www.rfs.nsw.gov.au. CC BY 4.0"
+  },
+  "qld": {
+   "name": "Queensland current bushfires",
+   "rows": 19,
+   "read_utc": "2026-11-23T21:50:26.000Z",
+   "credit": "© State of Queensland (Queensland Fire Department), current bushfire incidents, CC BY 4.0"
+  }
+ },
+ "levels": {
+  "NSW": {
+   "Advice": 8,
+   "Not Applicable": 11
+  },
+  "QLD": {
+   "Advice": 1,
+   "Information": 18
+  }
+ },
+ "warning_outlines": [
+  [
+   "NSW-685889",
+   "BEECROFT WEAPONS RANGE BEECROFT PENINSULA",
+   "Advice",
+   410
+  ],
+  [
+   "NSW-687418",
+   "COLLINS CREEK RD, COLLINS CREEK",
+   "Advice",
+   1
+  ],
+  [
+   "NSW-687318",
+   "COONABARABRAN RD, ULAMAMBRI",
+   "Advice",
+   28
+  ],
+  [
+   "NSW-685500",
+   "H POTS FIRE, CESSNOCK",
+   "Advice",
+   101
+  ],
+  [
+   "NSW-685822",
+   "RED POINT RD, WOLLUMBOOLA",
+   "Advice",
+   0
+  ],
+  [
+   "NSW-687358",
+   "ULAN RD, TURILL",
+   "Advice",
+   1
+  ],
+  [
+   "QLD-WARN-14121",
+   "AVOID SMOKE - Mapoon - fire as at 1:38pm Monday, 23 November 2026",
+   "Advice",
+   null
+  ]
+ ]
+}

@@ -1,0 +1,39 @@
+Australia right now: fire hotspots, incidents and who lives near them, at 8:50 am AEDT on Tuesday 24 November 2026.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+Public data at a point in time, not an official warning service. For official warnings, check your state emergency
+service.
+
+CODE
+  The notebook is licensed under the MIT licence (LICENSE).
+
+DATA WE MADE
+  The tables in data/tables/ (except where noted below), data/numbers.json, data/geometry/zones.geojson and
+  data/geometry/fdr_nsw.geojson and the visuals are licensed under Creative Commons Attribution 4.0 International
+  (LICENSE-DATA). Please credit: "Australia right now: Plotlay (getplotlay.com), from Geoscience Australia DEA
+  Hotspots, NASA FIRMS, NSW Rural Fire Service, Queensland Fire Department and ABS data". They are made from the
+  sources below, whose credits also apply.
+
+SOURCES (as read at 2026-11-23T21:50:19.000Z UTC)
+  DEA Hotspots: (c) Commonwealth of Australia (Geoscience Australia), CC BY 4.0. data/geometry/hotspots.geojson.
+  NASA FIRMS active fire data (VIIRS NOAA-20 and NOAA-21, MODIS): NASA Fire Information for Resource Management
+    System, part of NASA's ESDIS. NASA data are open. data/geometry/firms.geojson.
+  NSW RFS major incidents and fire danger ratings: (c) State of New South Wales (NSW Rural Fire Service), CC BY 4.0.
+    For current information go to www.rfs.nsw.gov.au. data/geometry/incidents.geojson, warnings.geojson, fdr_nsw.
+  Queensland current bushfire incidents and warnings: (c) State of Queensland (Queensland Fire Department), CC BY 4.0.
+  Census 2021 Mesh Block Counts and ASGS Edition 3 (mesh blocks, Local Government Areas): Australian Bureau of
+    Statistics, CC BY 4.0. The notebook downloads them; they are not in this repository.
+
+OPENSTREETMAP DATA (ODbL 1.0, share-alike)
+  data/geometry/major_roads.geojson, data/geometry/eds.geojson, data/tables/major_roads.csv,
+  data/tables/industrial_hotspots.csv, data/tables/warnings_drive.json, and the site and site_kind columns of
+  data/geometry/hotspots.geojson are made from OpenStreetMap data, (c) OpenStreetMap contributors, via Geofabrik,
+  available under the Open Database License 1.0: https://opendatacommons.org/licenses/odbl/1-0/ . If you publish an
+  adapted version of these files you must offer it under the ODbL too.
+
+NOT INCLUDED
+  Emergency WA warnings (CC BY-ND 4.0: no adapted versions) are in Plotlay's live example only. Victoria's, South
+  Australia's, Tasmania's and the ACT's incident feeds are not openly licensed for reuse like this. No aircraft,
+  vessel or AIS data.
+
+This is independent work using open data, not endorsed by any of the agencies above.
